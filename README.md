@@ -1,2 +1,2 @@
 # libccsv
-A library to access CSV file
+A library to read / write CSV file
